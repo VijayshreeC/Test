@@ -1,55 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="2" ignored="0" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="InetBankingV1" duration-ms="31499" started-at="2020-02-11T08:02:09Z" finished-at="2020-02-11T08:02:41Z">
+  <suite name="InetBankingV1" duration-ms="22313" started-at="2020-02-12T14:25:05Z" finished-at="2020-02-12T14:25:27Z">
     <groups>
     </groups>
-    <test name="BankingApp Test in Chrome" duration-ms="17455" started-at="2020-02-11T08:02:09Z" finished-at="2020-02-11T08:02:26Z">
+    <test name="BankingApp Test in Remote Chrome" duration-ms="21648" started-at="2020-02-12T14:25:05Z" finished-at="2020-02-12T14:25:26Z">
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@464bee09]" name="setup" is-config="true" duration-ms="12924" started-at="2020-02-11T08:02:09Z" finished-at="2020-02-11T08:02:22Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6eebc39e]" name="setup" is-config="true" duration-ms="14317" started-at="2020-02-12T14:25:05Z" finished-at="2020-02-12T14:25:19Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[remotechrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@464bee09]" name="loginTest" duration-ms="3489" started-at="2020-02-11T08:02:22Z" finished-at="2020-02-11T08:02:26Z">
+        <test-method status="FAIL" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6eebc39e]" name="loginTest" duration-ms="6991" started-at="2020-02-12T14:25:19Z" finished-at="2020-02-12T14:25:26Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Unable to click element]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Unable to click element
+at org.testng.Assert.fail(Assert.java:96)
+at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+at com.inetbanking.pageObjects.LoginPage.clickSubmit(LoginPage.java:50)
+at com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:497)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@464bee09]" name="tearDown" is-config="true" duration-ms="792" started-at="2020-02-11T08:02:26Z" finished-at="2020-02-11T08:02:26Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6eebc39e]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-02-12T14:25:26Z" finished-at="2020-02-12T14:25:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
-    </test> <!-- BankingApp Test in Chrome -->
-    <test name="BankingApp Test in IE" duration-ms="13600" started-at="2020-02-11T08:02:27Z" finished-at="2020-02-11T08:02:41Z">
+    </test> <!-- BankingApp Test in Remote Chrome -->
+    <test name="BankingApp Test in Remote IE" duration-ms="22313" started-at="2020-02-12T14:25:05Z" finished-at="2020-02-12T14:25:27Z">
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@56ef9176]" name="setup" is-config="true" duration-ms="5697" started-at="2020-02-11T08:02:27Z" finished-at="2020-02-11T08:02:33Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@13805618]" name="setup" is-config="true" duration-ms="10113" started-at="2020-02-12T14:25:05Z" finished-at="2020-02-12T14:25:15Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ie]]>
+                <![CDATA[remoteIE]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@56ef9176]" name="loginTest" duration-ms="7267" started-at="2020-02-11T08:02:33Z" finished-at="2020-02-11T08:02:40Z">
+        <test-method status="FAIL" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@13805618]" name="loginTest" duration-ms="11961" started-at="2020-02-12T14:25:15Z" finished-at="2020-02-12T14:25:27Z">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SACHINN', ip: '10.254.19.20', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SACHINN', ip: '10.254.19.20', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+at com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:25)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:497)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+at java.lang.Thread.run(Thread.java:745)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@56ef9176]" name="tearDown" is-config="true" duration-ms="628" started-at="2020-02-11T08:02:40Z" finished-at="2020-02-11T08:02:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@13805618]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-02-12T14:25:27Z" finished-at="2020-02-12T14:25:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
-    </test> <!-- BankingApp Test in IE -->
+    </test> <!-- BankingApp Test in Remote IE -->
   </suite> <!-- InetBankingV1 -->
 </testng-results>

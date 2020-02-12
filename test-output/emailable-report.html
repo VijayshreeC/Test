@@ -9,14 +9,35 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">InetBankingV1</th></tr>
-<tr><td><a href="#t0">BankingApp Test in Chrome</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">17,455</td><td></td><td></td></tr>
-<tr class="stripe"><td><a href="#t1">BankingApp Test in IE</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">13,600</td><td></td><td></td></tr>
-<tr><th>Total</th><th class="num">2</th><th class="num">0</th><th class="num">0</th><th class="num">31,055</th><th colspan="2"></th></tr>
+<tr><td><a href="#t0">BankingApp Test in Remote Chrome</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">21,648</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t1">BankingApp Test in Remote IE</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">22,313</td><td></td><td></td></tr>
+<tr><th>Total</th><th class="num">0</th><th class="num">0</th><th class="num attn">2</th><th class="num">43,961</th><th colspan="2"></th></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">InetBankingV1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingApp Test in Chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.inetbanking.testCases.TC_LoginTest_001</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1581408142698</td><td rowspan="1">3489</td></tr></tbody>
-<tbody id="t1"><tr><th colspan="4">BankingApp Test in IE &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.inetbanking.testCases.TC_LoginTest_001</td><td><a href="#m1">loginTest</a></td><td rowspan="1">1581408153143</td><td rowspan="1">7267</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">InetBankingV1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingApp Test in Remote Chrome &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.inetbanking.testCases.TC_LoginTest_001</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1581517519743</td><td rowspan="1">6991</td></tr></tbody>
+<tbody id="t1"><tr><th colspan="4">BankingApp Test in Remote IE &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.inetbanking.testCases.TC_LoginTest_001</td><td><a href="#m1">loginTest</a></td><td rowspan="1">1581517515546</td><td rowspan="1">11961</td></tr></tbody>
 </table>
-<h2>BankingApp Test in Chrome</h2><h3 id="m0">com.inetbanking.testCases.TC_LoginTest_001#loginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h2>BankingApp Test in IE</h2><h3 id="m1">com.inetbanking.testCases.TC_LoginTest_001#loginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>BankingApp Test in Remote Chrome</h2><h3 id="m0">com.inetbanking.testCases.TC_LoginTest_001#loginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: Unable to click element
+	at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+	at com.inetbanking.pageObjects.LoginPage.clickSubmit(LoginPage.java:50)
+	at com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:21)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+... Removed 17 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>BankingApp Test in Remote IE</h2><h3 id="m1">com.inetbanking.testCases.TC_LoginTest_001#loginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;SACHINN&apos;, ip: &apos;10.254.19.20&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_51&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+	at com.inetbanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:25)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+... Removed 16 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

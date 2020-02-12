@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]" parallel="tests">
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="BankingApp Test in Chrome(failed)">
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="BankingApp Test in Remote Chrome(failed)" parallel="tests">
+    <parameter name="browser" value="remotechrome"/>
     <classes>
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
         <methods>
@@ -15,9 +15,9 @@
         </methods>
       </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
     </classes>
-  </test> <!-- BankingApp Test in Chrome(failed) -->
-  <test thread-count="5" name="BankingApp Test in IE(failed)">
-    <parameter name="browser" value="ie"/>
+  </test> <!-- BankingApp Test in Remote Chrome(failed) -->
+  <test thread-count="5" name="BankingApp Test in Remote IE(failed)" parallel="tests">
+    <parameter name="browser" value="remoteIE"/>
     <classes>
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
         <methods>
@@ -27,5 +27,5 @@
         </methods>
       </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
     </classes>
-  </test> <!-- BankingApp Test in IE(failed) -->
+  </test> <!-- BankingApp Test in Remote IE(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->

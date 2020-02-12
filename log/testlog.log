@@ -768,3 +768,194 @@
 2020-02-11 17:10:30,882 - eBanking -INFO - Entered password
 2020-02-11 17:10:37,784 - eBanking -INFO - Clicked on submit Button
 2020-02-11 17:10:37,809 - eBanking -INFO - Login is successful
+2020-02-12 13:27:22,100 - eBanking -INFO - URL is opened
+2020-02-12 13:27:22,777 - eBanking -INFO - Entered username
+2020-02-12 13:27:23,547 - eBanking -INFO - Entered password
+2020-02-12 13:27:25,828 - eBanking -INFO - Clicked on submit Button
+2020-02-12 13:27:25,839 - eBanking -INFO - Login is successful
+2020-02-12 13:27:35,942 - eBanking -INFO - URL is opened
+2020-02-12 13:27:37,293 - eBanking -INFO - Entered username
+2020-02-12 13:27:38,478 - eBanking -INFO - Entered password
+2020-02-12 13:27:42,802 - eBanking -INFO - Clicked on submit Button
+2020-02-12 13:27:42,816 - eBanking -INFO - Login is successful
+2020-02-12 13:28:45,923 - eBanking -INFO - URL is opened
+2020-02-12 13:28:46,618 - eBanking -INFO - Entered username
+2020-02-12 13:28:47,275 - eBanking -INFO - Entered password
+2020-02-12 13:28:49,629 - eBanking -INFO - Clicked on submit Button
+2020-02-12 13:28:49,639 - eBanking -INFO - Login is successful
+2020-02-12 13:29:39,869 - eBanking -INFO - URL is opened
+2020-02-12 13:29:41,290 - eBanking -INFO - Entered username
+2020-02-12 13:29:42,460 - eBanking -INFO - Entered password
+2020-02-12 13:29:47,000 - eBanking -INFO - Clicked on submit Button
+2020-02-12 13:29:47,027 - eBanking -INFO - Login is successful
+2020-02-12 16:43:40,593 - eBanking -INFO - URL is opened
+2020-02-12 16:43:41,424 - eBanking -INFO - Entered username
+2020-02-12 16:43:42,171 - eBanking -INFO - Entered password
+2020-02-12 16:43:44,209 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:43:44,239 - eBanking -INFO - Login is successful
+2020-02-12 16:48:46,457 - eBanking -INFO - URL is opened
+2020-02-12 16:48:47,805 - eBanking -INFO - Entered username
+2020-02-12 16:48:49,304 - eBanking -INFO - Entered password
+2020-02-12 16:48:53,991 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:48:54,007 - eBanking -INFO - Login is successful
+2020-02-12 16:49:01,473 - eBanking -INFO - Entered username
+2020-02-12 16:49:02,782 - eBanking -INFO - Entered password
+2020-02-12 16:49:07,229 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:49:10,351 - eBanking -INFO - Successful login
+2020-02-12 16:49:12,696 - eBanking -INFO - Logged out of the system
+2020-02-12 16:49:22,665 - eBanking -INFO - Entered username
+2020-02-12 16:49:23,908 - eBanking -INFO - Entered password
+2020-02-12 16:49:26,015 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:49:34,959 - eBanking -WARN - Invalid credentials, login failed
+2020-02-12 16:49:36,332 - eBanking -INFO - Entered username
+2020-02-12 16:49:37,532 - eBanking -INFO - Entered password
+2020-02-12 16:49:39,710 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:49:45,413 - eBanking -WARN - Invalid credentials, login failed
+2020-02-12 16:49:47,185 - eBanking -INFO - Entered username
+2020-02-12 16:49:48,402 - eBanking -INFO - Entered password
+2020-02-12 16:49:52,889 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:49:55,994 - eBanking -INFO - Successful login
+2020-02-12 16:49:58,074 - eBanking -INFO - Logged out of the system
+2020-02-12 16:50:06,482 - eBanking -INFO - Entered username
+2020-02-12 16:50:07,691 - eBanking -INFO - Entered password
+2020-02-12 16:50:10,115 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:50:18,153 - eBanking -WARN - Invalid credentials, login failed
+2020-02-12 16:50:25,031 - eBanking -INFO - Entered username
+2020-02-12 16:50:26,322 - eBanking -INFO - Entered password
+2020-02-12 16:50:31,297 - eBanking -INFO - Clicked on submit button
+2020-02-12 16:50:51,148 - eBanking -INFO - Clicked on new customer link
+2020-02-12 16:50:52,781 - eBanking -INFO - Entered customer name
+2020-02-12 16:50:54,027 - eBanking -INFO - Clicked on gender
+2020-02-12 16:50:57,169 - eBanking -INFO - Entered dob
+2020-02-12 16:51:00,435 - eBanking -INFO - Entered address
+2020-02-12 16:51:01,692 - eBanking -INFO - Entered city
+2020-02-12 16:51:02,963 - eBanking -INFO - Entered state
+2020-02-12 16:51:04,171 - eBanking -INFO - Entered pincode
+2020-02-12 16:51:05,399 - eBanking -INFO - Entered mobile number
+2020-02-12 16:51:06,705 - eBanking -INFO - Entered email address
+2020-02-12 16:51:07,872 - eBanking -INFO - Entered password
+2020-02-12 16:51:09,124 - eBanking -INFO - Clicked on new customer submission
+2020-02-12 16:51:12,200 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-12 16:51:26,865 - eBanking -INFO - URL is opened
+2020-02-12 16:51:27,693 - eBanking -INFO - Entered username
+2020-02-12 16:51:28,486 - eBanking -INFO - Entered password
+2020-02-12 16:51:30,800 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:51:30,826 - eBanking -INFO - Login is successful
+2020-02-12 16:59:21,236 - eBanking -INFO - URL is opened
+2020-02-12 16:59:22,735 - eBanking -INFO - Entered username
+2020-02-12 16:59:23,918 - eBanking -INFO - Entered password
+2020-02-12 16:59:28,257 - eBanking -INFO - Clicked on submit Button
+2020-02-12 16:59:28,279 - eBanking -INFO - Login is successful
+2020-02-12 16:59:29,417 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> config.getValue('encoding')  [in template "v3html/v3-html-head.ftl" at line 2, column 27]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${config.getValue("encoding")}  [in template "v3html/v3-html-head.ftl" at line 2, column 24]
+	- Reached through: #include "v3-html-head.ftl"  [in template "v3html/v3-html-index.ftl" at line 47, column 9]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.include(Environment.java:2072)
+	at freemarker.core.Include.accept(Include.java:167)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.aventstack.extentreports.reporter.BasicFileReporter.processTemplate(BasicFileReporter.java:295)
+	at com.aventstack.extentreports.reporter.ExtentHtmlReporter.flush(ExtentHtmlReporter.java:53)
+	at com.aventstack.extentreports.ExtentObservable.lambda$notifyReporters$21(ExtentObservable.java:544)
+	at com.aventstack.extentreports.ExtentObservable$$Lambda$249/694589929.accept(Unknown Source)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.aventstack.extentreports.ExtentObservable.notifyReporters(ExtentObservable.java:544)
+	at com.aventstack.extentreports.ExtentObservable.flush(ExtentObservable.java:429)
+	at com.aventstack.extentreports.ExtentReports.flush(ExtentReports.java:275)
+	at com.inetbanking.utilities.Reporting.onFinish(Reporting.java:84)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:772)
+	at org.testng.TestRunner.afterRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:509)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2020-02-12 17:02:39,617 - eBanking -INFO - URL is opened
+2020-02-12 17:02:41,067 - eBanking -INFO - URL is opened
+2020-02-12 17:02:41,802 - eBanking -INFO - Entered username
+2020-02-12 17:02:41,859 - eBanking -INFO - Entered username
+2020-02-12 17:02:42,568 - eBanking -INFO - Entered password
+2020-02-12 17:02:42,638 - eBanking -INFO - Entered password
+2020-02-12 17:02:43,642 - eBanking -INFO - Clicked on submit Button
+2020-02-12 17:02:45,361 - eBanking -INFO - Login is not successful
+2020-02-12 17:02:45,902 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-12 17:04:14,420 - eBanking -INFO - URL is opened
+2020-02-12 17:04:15,208 - eBanking -INFO - Entered username
+2020-02-12 17:04:15,918 - eBanking -INFO - Entered password
+2020-02-12 17:04:18,577 - eBanking -INFO - Clicked on submit Button
+2020-02-12 17:04:18,604 - eBanking -INFO - Login is successful
+2020-02-12 19:09:35,226 - eBanking -INFO - URL is opened
+2020-02-12 19:09:36,772 - eBanking -INFO - Entered username
+2020-02-12 19:09:38,190 - eBanking -INFO - Entered password
+2020-02-12 19:09:43,049 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:09:43,861 - eBanking -INFO - URL is opened
+2020-02-12 19:09:43,920 - eBanking -INFO - Login is not successful
+2020-02-12 19:15:09,207 - eBanking -INFO - URL is opened
+2020-02-12 19:15:13,303 - eBanking -INFO - URL is opened
+2020-02-12 19:15:13,937 - eBanking -INFO - Entered username
+2020-02-12 19:15:13,993 - eBanking -INFO - Entered username
+2020-02-12 19:15:14,580 - eBanking -INFO - Entered password
+2020-02-12 19:15:14,638 - eBanking -INFO - Entered password
+2020-02-12 19:15:15,564 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:15:17,626 - eBanking -INFO - Login is not successful
+2020-02-12 19:15:17,962 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-12 19:18:23,244 - eBanking -INFO - URL is opened
+2020-02-12 19:18:24,745 - eBanking -INFO - Entered username
+2020-02-12 19:18:26,230 - eBanking -INFO - Entered password
+2020-02-12 19:18:31,529 - eBanking -INFO - URL is opened
+2020-02-12 19:18:32,161 - eBanking -INFO - Entered username
+2020-02-12 19:18:32,557 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:18:32,784 - eBanking -INFO - Entered password
+2020-02-12 19:18:37,168 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:18:37,175 - eBanking -INFO - Login is successful
+2020-02-12 19:20:41,170 - eBanking -INFO - URL is opened
+2020-02-12 19:20:41,887 - eBanking -INFO - Entered username
+2020-02-12 19:20:42,467 - eBanking -INFO - Entered password
+2020-02-12 19:20:43,372 - eBanking -INFO - Entered username
+2020-02-12 19:20:43,928 - eBanking -INFO - Entered password
+2020-02-12 19:20:45,277 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:20:45,392 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-12 19:23:38,290 - eBanking -INFO - URL is opened
+2020-02-12 19:23:38,291 - eBanking -INFO - URL is opened
+2020-02-12 19:23:38,929 - eBanking -INFO - Entered username
+2020-02-12 19:23:38,951 - eBanking -INFO - Entered username
+2020-02-12 19:23:39,523 - eBanking -INFO - Entered password
+2020-02-12 19:23:39,538 - eBanking -INFO - Entered password
+2020-02-12 19:23:42,703 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:23:42,835 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-12 19:55:15,554 - eBanking -INFO - URL is opened
+2020-02-12 19:55:19,748 - eBanking -INFO - URL is opened
+2020-02-12 19:55:20,484 - eBanking -INFO - Entered username
+2020-02-12 19:55:20,576 - eBanking -INFO - Entered username
+2020-02-12 19:55:21,199 - eBanking -INFO - Entered password
+2020-02-12 19:55:21,263 - eBanking -INFO - Entered password
+2020-02-12 19:55:24,507 - eBanking -INFO - Clicked on submit Button
+2020-02-12 19:55:26,732 - eBanking -WARN - This test step didn't execute and is failed
