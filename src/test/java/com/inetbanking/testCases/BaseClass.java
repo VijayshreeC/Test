@@ -30,6 +30,7 @@ public class BaseClass {
 	ReadConfig readconfig = new ReadConfig();
 
 	public String baseURL = readconfig.getApplicationUrl();
+	public String baseURL1 = readconfig.getApplicationUrl1();
 	public String username = readconfig.getUserName();
 	public String password = readconfig.getPassword();
 	public static WebDriver driver;
@@ -65,7 +66,7 @@ public class BaseClass {
 			DesiredCapabilities dc = new DesiredCapabilities();
 			dc.setBrowserName("chrome");
 			dc.setPlatform(Platform.WINDOWS);
-			driver = new RemoteWebDriver(new URL("http://10.254.19.138:5566/wd/hub"), dc);
+			driver = new RemoteWebDriver(new URL("http://10.254.19.138:4546/wd/hub"), dc);
 			System.out.println("RUNNING TESTS IN REMOTE CHROME BROWSER");
 			System.out.println();
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -74,7 +75,7 @@ public class BaseClass {
 			DesiredCapabilities dc1 = new DesiredCapabilities();
 			dc1.setBrowserName("firefox");
 			dc1.setPlatform(Platform.WINDOWS);
-			driver = new RemoteWebDriver(new URL("http://10.254.19.20:4547/wd/hub"), dc1);
+			driver = new RemoteWebDriver(new URL("http://10.254.19.23:4548/wd/hub"), dc1);
 			System.out.println("RUNNING TESTS IN REMOTE FIREFOX BROWSER");
 			System.out.println();
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -84,14 +85,14 @@ public class BaseClass {
 			dc2.setBrowserName("internet explorer");
 			dc2.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
 			dc2.setPlatform(Platform.WINDOWS);
-			driver = new RemoteWebDriver(new URL("http://10.254.19.20:4548/wd/hub"), dc2);
+			driver = new RemoteWebDriver(new URL("http://10.254.19.00:4500/wd/hub"), dc2);
 			System.out.println("RUNNING TESTS IN REMOTE IE BROWSER");
 			System.out.println();
 			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		}
 		
 		driver.manage().window().maximize();
-		driver.get(baseURL);
+		//driver.get(baseURL);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	}
 

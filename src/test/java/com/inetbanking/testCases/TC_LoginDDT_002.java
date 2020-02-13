@@ -15,6 +15,8 @@ public class TC_LoginDDT_002 extends BaseClass {
 
 	@Test(dataProvider = "LoginData")
 	public void loginDDT(String uname, String pwd) throws InterruptedException, IOException {
+		driver.get(baseURL);
+		logger.info("URL is opened");
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(uname);
 		logger.info("Entered username");

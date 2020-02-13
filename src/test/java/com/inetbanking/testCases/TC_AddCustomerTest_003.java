@@ -15,6 +15,8 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException {
+		driver.get(baseURL);
+		logger.info("URL is opened");
 		LoginPage lp = new LoginPage(driver);
 		lp.setUserName(username);
 		logger.info("Entered username");

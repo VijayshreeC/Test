@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="InetBankingV1" parallel="tests">
+<suite name="InetBankingV1" parallel="tests" thread-count="2">
 
 	<listeners>
 		<listener class-name="com.inetbanking.utilities.Reporting"></listener>
@@ -13,34 +13,36 @@
 		<parameter name="browser" value="remotechrome"></parameter>
 		<classes>
 			<class name="com.inetbanking.testCases.TC_LoginTest_001" />
-		<!-- 	<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
-			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> -->
-
-		</classes>
-
-	</test>
-	
-	 <!-- <test name="BankingApp Test in Remote Firefox">
-		<parameter name="browser" value="remotefirefox"></parameter>
-		<classes>
-			<class name="com.inetbanking.testCases.TC_LoginTest_001" />
-			<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
-			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" />
-
-		</classes>
-
-	</test> -->
-	
-	 <test name="BankingApp Test in Remote IE">
-		<parameter name="browser" value="remoteIE"></parameter>
-		<classes>
-			<class name="com.inetbanking.testCases.TC_LoginTest_001" />
 			<!-- <class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
 			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> -->
 
 		</classes>
 
 	</test>
+	
+	 <test name="BankingApp Test in Remote Firefox">
+		<parameter name="browser" value="remotefirefox"></parameter>
+		<classes>
+			<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001" />
+			<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
+			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> -->
+			<class name="com.inetbanking.testCases.FivenanceLogin" />
+
+		</classes>
+
+	</test> 
+	
+	<!--  <test name="BankingApp Test in Remote IE">
+		<parameter name="browser" value="remoteIE"></parameter>
+		<classes>
+			<class name="com.inetbanking.testCases.TC_LoginTest_001" />
+			<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
+			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" />
+			<class name="com.inetbanking.testCases.FivenanceLogin" />
+
+		</classes>
+
+	</test> -->
 	
 	
 	

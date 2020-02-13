@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]">
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="BankingApp Test in Remote Chrome(failed)" parallel="tests">
-    <parameter name="browser" value="remotechrome"/>
+  <test thread-count="5" name="BankingApp Test in Remote Firefox(failed)">
+    <parameter name="browser" value="remotefirefox"/>
     <classes>
-      <class name="com.inetbanking.testCases.TC_LoginTest_001">
+      <class name="com.inetbanking.testCases.FivenanceLogin">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="loginTest"/>
+          <include name="loginFinance"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.inetbanking.testCases.FivenanceLogin -->
     </classes>
-  </test> <!-- BankingApp Test in Remote Chrome(failed) -->
-  <test thread-count="5" name="BankingApp Test in Remote IE(failed)" parallel="tests">
-    <parameter name="browser" value="remoteIE"/>
-    <classes>
-      <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="loginTest"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
-    </classes>
-  </test> <!-- BankingApp Test in Remote IE(failed) -->
+  </test> <!-- BankingApp Test in Remote Firefox(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->
