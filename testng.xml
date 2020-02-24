@@ -14,23 +14,44 @@
 	<test name="BankingApp Test in Chrome">
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001" />
-			<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> -->
-			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" />
+			<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001" /> -->
+			<class name="com.inetbanking.testCases.TC_LoginDDT_002" />
+			<!-- <class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> -->
 			
 		</classes>
 	</test>
 	
-	<test name="BankingApp Test in IE"> <parameter name="browser" value="ie"></parameter> 
+	
+	
+	<test name="regressionTest">
+	<parameter name="browser" value="chrome"></parameter>
+	<groups>
+	<define name="regression1">
+	<include name="sanity"></include>
+	<include name="regression"></include>
+	</define>
+	<run>
+	<include name="regression"></include>
+	</run>
+	</groups>
+			<classes>
+			<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001" /> -->
+			<class name="com.inetbanking.testCases.TC_LoginDDT_002" />
+			<!-- <class name="com.inetbanking.testCases.TC_AddCustomerTest_003" /> -->
+			
+		</classes>
+	</test>
+	
+	<!-- <test name="BankingApp Test in IE"> <parameter name="browser" value="ie"></parameter> 
 		<classes>
-	<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001" />  -->
-	<!-- <class name="com.inetbanking.testCases.TC_LoginDDT_002" />  -->
+	<class name="com.inetbanking.testCases.TC_LoginTest_001" /> 
+	<class name="com.inetbanking.testCases.TC_LoginDDT_002" /> 
 	<class name="com.inetbanking.testCases.TC_AddCustomerTest_003"/>
-	<!-- <class name="com.inetbanking.testCases.FivenanceLogin" /> -->
+	<class name="com.inetbanking.testCases.FivenanceLogin" />
 
 	</classes>
 
-	</test>
+	</test> -->
 
 	<!-- <test name="BankingApp Test in Firefox"> 
 	<parameter name="browser" value="firefox"></parameter> 

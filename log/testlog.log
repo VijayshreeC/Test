@@ -1447,3 +1447,154 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-24 14:20:37,263 - eBanking -INFO - Entered password
 2020-02-24 14:20:39,538 - eBanking -INFO - Clicked on new customer submission
 2020-02-24 14:20:42,666 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 15:06:36,678 - eBanking -INFO - URL is opened
+2020-02-24 15:06:37,730 - eBanking -INFO - Entered username
+2020-02-24 15:06:38,668 - eBanking -INFO - Entered password
+2020-02-24 15:06:42,812 - eBanking -INFO - URL is opened
+2020-02-24 15:06:43,460 - eBanking -INFO - Entered username
+2020-02-24 15:06:44,061 - eBanking -INFO - Entered password
+2020-02-24 15:06:46,793 - eBanking -INFO - Clicked on submit button
+2020-02-24 15:06:55,142 - eBanking -INFO - Clicked on submit button
+2020-02-24 15:07:11,833 - eBanking -INFO - Clicked on new customer link
+2020-02-24 15:07:12,455 - eBanking -INFO - Entered customer name
+2020-02-24 15:07:13,064 - eBanking -INFO - Clicked on gender
+2020-02-24 15:07:14,798 - eBanking -INFO - Entered dob
+2020-02-24 15:07:17,441 - eBanking -INFO - Entered address
+2020-02-24 15:07:18,099 - eBanking -INFO - Entered city
+2020-02-24 15:07:18,711 - eBanking -INFO - Entered state
+2020-02-24 15:07:19,317 - eBanking -INFO - Entered pincode
+2020-02-24 15:07:19,955 - eBanking -INFO - Entered mobile number
+2020-02-24 15:07:20,633 - eBanking -INFO - Entered email address
+2020-02-24 15:07:21,218 - eBanking -INFO - Entered password
+2020-02-24 15:07:24,740 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 15:07:26,743 - eBanking -INFO - Successful login
+2020-02-24 15:08:12,181 - eBanking -INFO - URL is opened
+2020-02-24 15:08:12,838 - eBanking -INFO - Entered username
+2020-02-24 15:08:13,436 - eBanking -INFO - Entered password
+2020-02-24 15:08:14,884 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:08:19,368 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:08:20,764 - eBanking -INFO - URL is opened
+2020-02-24 15:08:21,370 - eBanking -INFO - Entered username
+2020-02-24 15:08:21,967 - eBanking -INFO - Entered password
+2020-02-24 15:08:23,058 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:08:28,396 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:08:30,632 - eBanking -INFO - URL is opened
+2020-02-24 15:08:31,276 - eBanking -INFO - Entered username
+2020-02-24 15:08:31,903 - eBanking -INFO - Entered password
+2020-02-24 15:08:32,804 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:08:37,822 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:08:39,662 - eBanking -INFO - URL is opened
+2020-02-24 15:08:40,276 - eBanking -INFO - Entered username
+2020-02-24 15:08:40,868 - eBanking -INFO - Entered password
+2020-02-24 15:08:41,957 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:08:55,595 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:08:57,416 - eBanking -INFO - URL is opened
+2020-02-24 15:08:58,035 - eBanking -INFO - Entered username
+2020-02-24 15:08:58,632 - eBanking -INFO - Entered password
+2020-02-24 15:09:00,117 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:09:04,805 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:09:58,226 - eBanking -INFO - URL is opened
+2020-02-24 15:09:58,879 - eBanking -INFO - Entered username
+2020-02-24 15:09:59,478 - eBanking -INFO - Entered password
+2020-02-24 15:10:00,545 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:10:05,203 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:10:07,991 - eBanking -INFO - URL is opened
+2020-02-24 15:10:08,629 - eBanking -INFO - Entered username
+2020-02-24 15:10:09,224 - eBanking -INFO - Entered password
+2020-02-24 15:10:10,313 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:10:14,742 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:10:17,851 - eBanking -INFO - URL is opened
+2020-02-24 15:10:18,456 - eBanking -INFO - Entered username
+2020-02-24 15:10:19,066 - eBanking -INFO - Entered password
+2020-02-24 15:10:20,433 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:10:29,043 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:10:41,156 - eBanking -INFO - URL is opened
+2020-02-24 15:10:41,800 - eBanking -INFO - Entered username
+2020-02-24 15:10:42,430 - eBanking -INFO - Entered password
+2020-02-24 15:10:43,441 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:11:08,287 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:11:10,496 - eBanking -INFO - URL is opened
+2020-02-24 15:11:11,153 - eBanking -INFO - Entered username
+2020-02-24 15:11:11,757 - eBanking -INFO - Entered password
+2020-02-24 15:11:13,229 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:11:18,547 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:12:57,778 - eBanking -INFO - URL is opened
+2020-02-24 15:12:58,440 - eBanking -INFO - Entered username
+2020-02-24 15:12:59,042 - eBanking -INFO - Entered password
+2020-02-24 15:13:00,179 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:13:04,854 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:13:10,069 - eBanking -INFO - URL is opened
+2020-02-24 15:13:10,682 - eBanking -INFO - Entered username
+2020-02-24 15:13:11,276 - eBanking -INFO - Entered password
+2020-02-24 15:13:12,713 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:13:17,638 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:13:21,374 - eBanking -INFO - URL is opened
+2020-02-24 15:13:22,015 - eBanking -INFO - Entered username
+2020-02-24 15:13:22,616 - eBanking -INFO - Entered password
+2020-02-24 15:13:23,772 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:13:28,842 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:13:31,393 - eBanking -INFO - URL is opened
+2020-02-24 15:13:32,011 - eBanking -INFO - Entered username
+2020-02-24 15:13:32,629 - eBanking -INFO - Entered password
+2020-02-24 15:13:34,061 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:13:39,450 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:13:41,502 - eBanking -INFO - URL is opened
+2020-02-24 15:13:42,141 - eBanking -INFO - Entered username
+2020-02-24 15:13:42,744 - eBanking -INFO - Entered password
+2020-02-24 15:13:43,802 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:22:04,633 - eBanking -INFO - URL is opened
+2020-02-24 15:22:05,288 - eBanking -INFO - Entered username
+2020-02-24 15:22:05,905 - eBanking -INFO - Entered password
+2020-02-24 15:22:07,935 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:22:10,952 - eBanking -INFO - Successful login
+2020-02-24 15:22:12,424 - eBanking -INFO - Logged out of the system
+2020-02-24 15:22:31,215 - eBanking -INFO - URL is opened
+2020-02-24 15:22:31,828 - eBanking -INFO - Entered username
+2020-02-24 15:22:32,455 - eBanking -INFO - Entered password
+2020-02-24 15:22:33,475 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:22:38,193 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:22:40,065 - eBanking -INFO - URL is opened
+2020-02-24 15:22:40,681 - eBanking -INFO - Entered username
+2020-02-24 15:22:41,297 - eBanking -INFO - Entered password
+2020-02-24 15:22:42,214 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:22:46,425 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:22:47,747 - eBanking -INFO - URL is opened
+2020-02-24 15:22:48,324 - eBanking -INFO - Entered username
+2020-02-24 15:22:48,912 - eBanking -INFO - Entered password
+2020-02-24 15:22:49,585 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:22:52,594 - eBanking -INFO - Successful login
+2020-02-24 15:23:12,930 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-24 15:23:15,462 - eBanking -INFO - URL is opened
+2020-02-24 15:23:16,058 - eBanking -INFO - Entered username
+2020-02-24 15:23:16,641 - eBanking -INFO - Entered password
+2020-02-24 15:23:17,247 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:23:20,251 - eBanking -INFO - Successful login
+2020-02-24 15:23:40,617 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-24 15:28:03,377 - eBanking -INFO - URL is opened
+2020-02-24 15:28:04,031 - eBanking -INFO - Entered username
+2020-02-24 15:28:04,637 - eBanking -INFO - Entered password
+2020-02-24 15:28:07,585 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:28:10,603 - eBanking -INFO - Successful login
+2020-02-24 15:28:15,801 - eBanking -INFO - Logged out of the system
+2020-02-24 15:28:29,179 - eBanking -INFO - URL is opened
+2020-02-24 15:28:29,794 - eBanking -INFO - Entered username
+2020-02-24 15:28:30,392 - eBanking -INFO - Entered password
+2020-02-24 15:28:31,451 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:28:36,684 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:28:39,053 - eBanking -INFO - URL is opened
+2020-02-24 15:28:39,670 - eBanking -INFO - Entered username
+2020-02-24 15:28:40,312 - eBanking -INFO - Entered password
+2020-02-24 15:28:41,312 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:28:46,503 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 15:28:48,321 - eBanking -INFO - URL is opened
+2020-02-24 15:28:48,916 - eBanking -INFO - Entered username
+2020-02-24 15:28:49,516 - eBanking -INFO - Entered password
+2020-02-24 15:28:50,115 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:28:53,120 - eBanking -INFO - Successful login
+2020-02-24 15:29:13,495 - eBanking -WARN - This test step didn't execute and is failed
+2020-02-24 15:29:15,837 - eBanking -INFO - URL is opened
+2020-02-24 15:29:16,428 - eBanking -INFO - Entered username
+2020-02-24 15:29:17,056 - eBanking -INFO - Entered password
+2020-02-24 15:29:17,644 - eBanking -INFO - Clicked on submit Button
+2020-02-24 15:29:20,650 - eBanking -INFO - Successful login
+2020-02-24 15:29:41,034 - eBanking -WARN - This test step didn't execute and is failed

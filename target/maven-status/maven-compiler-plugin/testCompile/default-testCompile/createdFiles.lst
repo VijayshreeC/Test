@@ -1,11 +1,13 @@
-com\inetbanking\pageObjects\LoginPage.class
 com\inetbanking\testCases\BaseClass.class
 com\inetbanking\testCases\TC_LoginTest_001.class
-com\inetbanking\utilities\XLUtils.class
 com\inetbanking\testCases\TC_LoginDDT_002.class
 com\inetbanking\testCases\CommonMethods.class
 com\inetbanking\pageObjects\AddCustomerPage.class
+com\inetbanking\testCases\FivenanceLogin.class
 com\inetbanking\utilities\HighlightElement.class
-com\inetbanking\utilities\ReadConfig.class
 com\inetbanking\utilities\Reporting.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\utilities\XLUtils.class
+com\inetbanking\pageObjects\FinanceLoginPage.class
+com\inetbanking\utilities\ReadConfig.class
 com\inetbanking\testCases\TC_AddCustomerTest_003.class

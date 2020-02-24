@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="77.48" tests="8" errors="0" skipped="0" failures="4">
+<testsuite name="TestSuite" time="40.539" tests="5" errors="0" skipped="0" failures="4">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_51\jre\bin"/>
@@ -21,29 +21,31 @@
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\SACHIN~1.NAI\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="C:\Users\sachin.nair\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2091094517350548553.tmp"/>
+    <property name="classworlds.conf" value="C:\Framework\Maven files\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_51/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_51/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_51/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Framework\Maven files\apache-maven-3.6.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\sachin.nair\AppData\Local\Microsoft\WindowsApps;;C:\Users\sachin.nair\Desktop\Eclipse\eclipse-java-oxygen-2-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_51\/bin;C:\Program Files\Java\jdk1.8.0_51\/bin;C:\Program Files\Java\jdk1.8.0_51\bin;C:\Framework\Maven files\apache-maven-3.6.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="maven.conf" value="C:\Framework\Maven files\apache-maven-3.6.0\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="6.3"/>
-    <property name="user.home" value="C:\Users\sachin.nair"/>
+    <property name="library.jansi.path" value="C:\Framework\Maven files\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="user.name" value="sachin.nair"/>
-    <property name="java.class.path" value="C:\Users\sachin.nair\Desktop\Eclipse\eclipse-java-oxygen-2-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.2.20171007-0216\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="user.name" value="SACHINN$"/>
+    <property name="java.class.path" value="C:\Framework\Maven files\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_51\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -52,7 +54,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_51\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\sachin.nair\eclipse-workspace\inetBankingV1\EMBEDDED"/>
+    <property name="maven.home" value="C:\Framework\Maven files\apache-maven-3.6.0\bin\.."/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -60,86 +62,67 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="loginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="7.566"/>
-  <testcase name="loginTest" classname="com.inetbanking.testCases.TC_LoginTest_001" time="3.962"/>
-  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="21.194"/>
-  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="14.044">
+  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="40.539"/>
+  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="15.801">
     <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
 	at junit.framework.Assert.fail(Assert.java:47)
 	at junit.framework.Assert.assertTrue(Assert.java:20)
 	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:33)
 </failure>
-    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:20)- Entered username
- INFO [main] (TC_LoginDDT_002.java:22)- Entered password
- INFO [main] (TC_LoginDDT_002.java:24)- Clicked on submit Button
- WARN [main] (TC_LoginDDT_002.java:29)- Invalid credentials, login failed
+    <system-out><![CDATA[ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:19)- URL is opened
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:22)- Entered username
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:24)- Entered password
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:26)- Clicked on submit Button
+ WARN [TestNG-tests-1] (TC_LoginDDT_002.java:31)- Invalid credentials, login failed
 Screenshot is taken for this failed test case
 ]]></system-out>
   </testcase>
-  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="10.382">
+  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="9.817">
     <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
 	at junit.framework.Assert.fail(Assert.java:47)
 	at junit.framework.Assert.assertTrue(Assert.java:20)
 	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:33)
 </failure>
-    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:20)- Entered username
- INFO [main] (TC_LoginDDT_002.java:22)- Entered password
- INFO [main] (TC_LoginDDT_002.java:24)- Clicked on submit Button
- WARN [main] (TC_LoginDDT_002.java:29)- Invalid credentials, login failed
+    <system-out><![CDATA[ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:19)- URL is opened
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:22)- Entered username
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:24)- Entered password
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:26)- Clicked on submit Button
+ WARN [TestNG-tests-1] (TC_LoginDDT_002.java:31)- Invalid credentials, login failed
 Screenshot is taken for this failed test case
 ]]></system-out>
   </testcase>
-  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="19.491"/>
-  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="13.273">
-    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
-	at junit.framework.Assert.fail(Assert.java:47)
-	at junit.framework.Assert.assertTrue(Assert.java:20)
-	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
-</failure>
-    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:20)- Entered username
- INFO [main] (TC_LoginDDT_002.java:22)- Entered password
- INFO [main] (TC_LoginDDT_002.java:24)- Clicked on submit Button
- WARN [main] (TC_LoginDDT_002.java:29)- Invalid credentials, login failed
-Screenshot is taken for this failed test case
-]]></system-out>
-  </testcase>
-  <testcase name="addNewCustomer" classname="com.inetbanking.testCases.TC_AddCustomerTest_003" time="48.72">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="26.677">
+    <failure message="Unable to click element" type="java.lang.AssertionError">java.lang.AssertionError: Unable to click element
 	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:72)
+	at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+	at com.inetbanking.pageObjects.LoginPage.clickLogOut(LoginPage.java:55)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:37)
 </failure>
-    <system-out><![CDATA[RUNNING TESTS IN INTERNET EXPLORER BROWSER
-
- INFO [main] (TC_AddCustomerTest_003.java:20)- Entered username
- INFO [main] (TC_AddCustomerTest_003.java:22)- Entered password
- INFO [main] (TC_AddCustomerTest_003.java:24)- Clicked on submit button
- INFO [main] (TC_AddCustomerTest_003.java:39)- Clicked on new customer link
- INFO [main] (TC_AddCustomerTest_003.java:41)- Entered customer name
- INFO [main] (TC_AddCustomerTest_003.java:43)- Clicked on gender
- INFO [main] (TC_AddCustomerTest_003.java:45)- Entered dob
- INFO [main] (TC_AddCustomerTest_003.java:48)- Entered address
- INFO [main] (TC_AddCustomerTest_003.java:50)- Entered city
- INFO [main] (TC_AddCustomerTest_003.java:52)- Entered state
- INFO [main] (TC_AddCustomerTest_003.java:54)- Entered pincode
- INFO [main] (TC_AddCustomerTest_003.java:56)- Entered mobile number
- INFO [main] (TC_AddCustomerTest_003.java:60)- Entered email address
- INFO [main] (TC_AddCustomerTest_003.java:62)- Entered password
- INFO [main] (TC_AddCustomerTest_003.java:64)- Clicked on new customer submission
- WARN [main] (TC_AddCustomerTest_003.java:70)- Invalid credentials, login failed or user already exist
+    <system-out><![CDATA[ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:19)- URL is opened
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:22)- Entered username
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:24)- Entered password
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:26)- Clicked on submit Button
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:35)- Successful login
 Screenshot is taken for this failed test case
+ WARN [TestNG-tests-1] (CommonMethods.java:24)- This test step didn't execute and is failed
 ]]></system-out>
-    <system-err><![CDATA[Started InternetExplorerDriver server (32-bit)
-3.14.0.0
-Listening on port 5660
-Only local connections are allowed
-Feb 12, 2020 4:50:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetbanking.testCases.TC_LoginDDT_002" time="27.54">
+    <failure message="Unable to click element" type="java.lang.AssertionError">java.lang.AssertionError: Unable to click element
+	at org.testng.Assert.fail(Assert.java:96)
+	at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+	at com.inetbanking.pageObjects.LoginPage.clickLogOut(LoginPage.java:55)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:37)
+</failure>
+    <system-out><![CDATA[ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:19)- URL is opened
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:22)- Entered username
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:24)- Entered password
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:26)- Clicked on submit Button
+ INFO [TestNG-tests-1] (TC_LoginDDT_002.java:35)- Successful login
+Screenshot is taken for this failed test case
+ WARN [TestNG-tests-1] (CommonMethods.java:24)- This test step didn't execute and is failed
+]]></system-out>
   </testcase>
 </testsuite>

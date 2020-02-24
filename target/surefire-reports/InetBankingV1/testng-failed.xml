@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [InetBankingV1]">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [InetBankingV1]" parallel="tests">
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" verbose="0" name="BankingApp Test in IE(failed)">
-    <parameter name="browser" value="ie"/>
+  <test thread-count="2" verbose="0" name="BankingApp Test in Chrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testCases.TC_AddCustomerTest_003">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="addNewCustomer"/>
-        </methods>
-      </class> <!-- com.inetbanking.testCases.TC_AddCustomerTest_003 -->
       <class name="com.inetbanking.testCases.TC_LoginDDT_002">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="loginDDT" invocation-numbers="1 2 4"/>
+          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
         </methods>
       </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
     </classes>
-  </test> <!-- BankingApp Test in IE(failed) -->
+  </test> <!-- BankingApp Test in Chrome(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->

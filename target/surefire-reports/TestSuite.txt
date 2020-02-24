@@ -1,33 +1,32 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 174.574 sec <<< FAILURE! - in TestSuite
-loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 14.044 sec  <<< FAILURE!
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 133.272 sec <<< FAILURE! - in TestSuite
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 15.801 sec  <<< FAILURE!
 junit.framework.AssertionFailedError: null
 	at junit.framework.Assert.fail(Assert.java:47)
 	at junit.framework.Assert.assertTrue(Assert.java:20)
 	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:33)
 
-loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 10.382 sec  <<< FAILURE!
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 9.817 sec  <<< FAILURE!
 junit.framework.AssertionFailedError: null
 	at junit.framework.Assert.fail(Assert.java:47)
 	at junit.framework.Assert.assertTrue(Assert.java:20)
 	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:33)
 
-loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 13.273 sec  <<< FAILURE!
-junit.framework.AssertionFailedError: null
-	at junit.framework.Assert.fail(Assert.java:47)
-	at junit.framework.Assert.assertTrue(Assert.java:20)
-	at junit.framework.Assert.assertTrue(Assert.java:27)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:31)
-
-addNewCustomer(com.inetbanking.testCases.TC_AddCustomerTest_003)  Time elapsed: 48.72 sec  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 26.677 sec  <<< FAILURE!
+java.lang.AssertionError: Unable to click element
 	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at com.inetbanking.testCases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:72)
+	at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+	at com.inetbanking.pageObjects.LoginPage.clickLogOut(LoginPage.java:55)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:37)
+
+loginDDT(com.inetbanking.testCases.TC_LoginDDT_002)  Time elapsed: 27.54 sec  <<< FAILURE!
+java.lang.AssertionError: Unable to click element
+	at org.testng.Assert.fail(Assert.java:96)
+	at com.inetbanking.testCases.CommonMethods.click(CommonMethods.java:25)
+	at com.inetbanking.pageObjects.LoginPage.clickLogOut(LoginPage.java:55)
+	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:37)
 

@@ -32,7 +32,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
-						<suiteXmlFile>testngGrid.xml</suiteXmlFile>
+						<!-- <suiteXmlFile>testngGrid.xml</suiteXmlFile> -->
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

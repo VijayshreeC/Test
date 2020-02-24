@@ -9,7 +9,7 @@ import com.inetbanking.pageObjects.LoginPage;
 
 public class TC_LoginTest_001 extends BaseClass {
 
-	@Test
+	@Test(groups= {"sanity","regression"})
 	public void loginTest() throws InterruptedException, IOException {
 		driver.get(baseURL);
 		logger.info("URL is opened");
