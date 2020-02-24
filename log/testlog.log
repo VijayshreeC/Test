@@ -1173,3 +1173,277 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-18 15:25:14,809 - eBanking -INFO - Entered Password
 2020-02-18 15:25:16,213 - eBanking -INFO - Clicked on login submit
 2020-02-18 15:25:26,232 - eBanking -INFO - Login is successful
+2020-02-24 13:11:22,978 - eBanking -INFO - URL is opened
+2020-02-24 13:11:23,645 - eBanking -INFO - Entered username
+2020-02-24 13:11:24,259 - eBanking -INFO - Entered password
+2020-02-24 13:11:27,295 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:12:47,989 - eBanking -INFO - URL is opened
+2020-02-24 13:12:48,670 - eBanking -INFO - Entered username
+2020-02-24 13:12:49,279 - eBanking -INFO - Entered password
+2020-02-24 13:12:54,041 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:12:57,052 - eBanking -INFO - Login is successful
+2020-02-24 13:13:13,092 - eBanking -INFO - URL is opened
+2020-02-24 13:13:13,743 - eBanking -INFO - Entered username
+2020-02-24 13:13:14,355 - eBanking -INFO - Entered password
+2020-02-24 13:13:16,774 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:13:42,913 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:13:43,533 - eBanking -INFO - Entered customer name
+2020-02-24 13:13:44,123 - eBanking -INFO - Clicked on gender
+2020-02-24 13:13:45,836 - eBanking -INFO - Entered dob
+2020-02-24 13:13:48,453 - eBanking -INFO - Entered address
+2020-02-24 13:13:49,077 - eBanking -INFO - Entered city
+2020-02-24 13:13:49,698 - eBanking -INFO - Entered state
+2020-02-24 13:13:50,310 - eBanking -INFO - Entered pincode
+2020-02-24 13:13:50,940 - eBanking -INFO - Entered mobile number
+2020-02-24 13:13:51,626 - eBanking -INFO - Entered email address
+2020-02-24 13:13:52,224 - eBanking -INFO - Entered password
+2020-02-24 13:13:53,607 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:13:56,096 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 13:16:01,707 - eBanking -INFO - URL is opened
+2020-02-24 13:16:02,383 - eBanking -INFO - Entered username
+2020-02-24 13:16:02,994 - eBanking -INFO - Entered password
+2020-02-24 13:16:07,444 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:16:10,454 - eBanking -INFO - Login is successful
+2020-02-24 13:16:24,347 - eBanking -INFO - URL is opened
+2020-02-24 13:16:24,996 - eBanking -INFO - Entered username
+2020-02-24 13:16:25,641 - eBanking -INFO - Entered password
+2020-02-24 13:16:28,012 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:16:53,178 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:16:53,797 - eBanking -INFO - Entered customer name
+2020-02-24 13:16:54,392 - eBanking -INFO - Clicked on gender
+2020-02-24 13:16:56,107 - eBanking -INFO - Entered dob
+2020-02-24 13:16:58,725 - eBanking -INFO - Entered address
+2020-02-24 13:16:59,341 - eBanking -INFO - Entered city
+2020-02-24 13:17:00,097 - eBanking -INFO - Entered state
+2020-02-24 13:17:00,709 - eBanking -INFO - Entered pincode
+2020-02-24 13:17:01,338 - eBanking -INFO - Entered mobile number
+2020-02-24 13:17:02,018 - eBanking -INFO - Entered email address
+2020-02-24 13:17:02,627 - eBanking -INFO - Entered password
+2020-02-24 13:17:06,287 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:17:08,307 - eBanking -INFO - Successful login
+2020-02-24 13:20:56,105 - eBanking -INFO - URL is opened
+2020-02-24 13:20:57,573 - eBanking -INFO - Entered username
+2020-02-24 13:20:58,779 - eBanking -INFO - Entered password
+2020-02-24 13:21:08,616 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:21:11,633 - eBanking -INFO - Login is successful
+2020-02-24 13:21:17,525 - eBanking -INFO - URL is opened
+2020-02-24 13:21:18,963 - eBanking -INFO - Entered username
+2020-02-24 13:21:20,242 - eBanking -INFO - Entered password
+2020-02-24 13:21:24,584 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:21:53,583 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:21:54,914 - eBanking -INFO - Entered customer name
+2020-02-24 13:21:56,317 - eBanking -INFO - Clicked on gender
+2020-02-24 13:21:59,609 - eBanking -INFO - Entered dob
+2020-02-24 13:22:02,915 - eBanking -INFO - Entered address
+2020-02-24 13:22:04,215 - eBanking -INFO - Entered city
+2020-02-24 13:22:05,634 - eBanking -INFO - Entered state
+2020-02-24 13:22:06,880 - eBanking -INFO - Entered pincode
+2020-02-24 13:22:08,184 - eBanking -INFO - Entered mobile number
+2020-02-24 13:22:09,540 - eBanking -INFO - Entered email address
+2020-02-24 13:22:10,796 - eBanking -INFO - Entered password
+2020-02-24 13:22:13,067 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:22:16,144 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 13:23:39,836 - eBanking -INFO - URL is opened
+2020-02-24 13:23:41,261 - eBanking -INFO - Entered username
+2020-02-24 13:23:42,534 - eBanking -INFO - Entered password
+2020-02-24 13:23:55,175 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:23:58,192 - eBanking -INFO - Login is successful
+2020-02-24 13:30:39,260 - eBanking -INFO - URL is opened
+2020-02-24 13:30:40,699 - eBanking -INFO - Entered username
+2020-02-24 13:30:41,920 - eBanking -INFO - Entered password
+2020-02-24 13:31:18,286 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:31:21,301 - eBanking -INFO - Login is not successful
+2020-02-24 13:31:26,283 - eBanking -INFO - URL is opened
+2020-02-24 13:31:27,813 - eBanking -INFO - Entered username
+2020-02-24 13:31:28,987 - eBanking -INFO - Entered password
+2020-02-24 13:31:35,027 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:32:06,065 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:32:07,502 - eBanking -INFO - Entered customer name
+2020-02-24 13:32:10,132 - eBanking -INFO - Clicked on gender
+2020-02-24 13:32:13,445 - eBanking -INFO - Entered dob
+2020-02-24 13:32:16,703 - eBanking -INFO - Entered address
+2020-02-24 13:32:17,977 - eBanking -INFO - Entered city
+2020-02-24 13:32:19,202 - eBanking -INFO - Entered state
+2020-02-24 13:32:20,448 - eBanking -INFO - Entered pincode
+2020-02-24 13:32:21,685 - eBanking -INFO - Entered mobile number
+2020-02-24 13:32:22,998 - eBanking -INFO - Entered email address
+2020-02-24 13:32:24,178 - eBanking -INFO - Entered password
+2020-02-24 13:32:26,453 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:32:29,525 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 13:38:41,212 - eBanking -INFO - URL is opened
+2020-02-24 13:38:41,835 - eBanking -INFO - Entered username
+2020-02-24 13:38:42,388 - eBanking -INFO - Entered password
+2020-02-24 13:39:03,358 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:39:06,363 - eBanking -INFO - Login is successful
+2020-02-24 13:40:09,279 - eBanking -INFO - URL is opened
+2020-02-24 13:40:09,874 - eBanking -INFO - Entered username
+2020-02-24 13:40:10,436 - eBanking -INFO - Entered password
+2020-02-24 13:40:11,641 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:40:14,690 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 13:40:27,573 - eBanking -INFO - URL is opened
+2020-02-24 13:40:28,155 - eBanking -INFO - Entered username
+2020-02-24 13:40:28,768 - eBanking -INFO - Entered password
+2020-02-24 13:40:30,115 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:40:33,190 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 13:40:36,049 - eBanking -INFO - URL is opened
+2020-02-24 13:40:36,685 - eBanking -INFO - Entered username
+2020-02-24 13:40:37,247 - eBanking -INFO - Entered password
+2020-02-24 13:40:38,121 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:40:41,199 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 13:41:25,516 - eBanking -INFO - URL is opened
+2020-02-24 13:41:26,096 - eBanking -INFO - Entered username
+2020-02-24 13:41:26,641 - eBanking -INFO - Entered password
+2020-02-24 13:41:27,964 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:41:31,006 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 13:41:46,953 - eBanking -INFO - URL is opened
+2020-02-24 13:41:47,643 - eBanking -INFO - Entered username
+2020-02-24 13:41:48,217 - eBanking -INFO - Entered password
+2020-02-24 13:41:49,534 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:41:52,610 - eBanking -WARN - Invalid credentials, login failed
+2020-02-24 13:43:55,986 - eBanking -INFO - URL is opened
+2020-02-24 13:43:56,576 - eBanking -INFO - Entered username
+2020-02-24 13:43:57,127 - eBanking -INFO - Entered password
+2020-02-24 13:49:24,042 - eBanking -INFO - URL is opened
+2020-02-24 13:49:24,663 - eBanking -INFO - Entered username
+2020-02-24 13:49:25,214 - eBanking -INFO - Entered password
+2020-02-24 13:49:39,728 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:49:42,734 - eBanking -INFO - Login is successful
+2020-02-24 13:51:06,367 - eBanking -INFO - URL is opened
+2020-02-24 13:51:06,948 - eBanking -INFO - Entered username
+2020-02-24 13:51:07,498 - eBanking -INFO - Entered password
+2020-02-24 13:52:07,210 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:53:16,385 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:53:16,983 - eBanking -INFO - Entered customer name
+2020-02-24 13:53:17,744 - eBanking -INFO - Clicked on gender
+2020-02-24 13:53:19,336 - eBanking -INFO - Entered dob
+2020-02-24 13:53:21,887 - eBanking -INFO - Entered address
+2020-02-24 13:53:22,446 - eBanking -INFO - Entered city
+2020-02-24 13:53:23,006 - eBanking -INFO - Entered state
+2020-02-24 13:53:23,551 - eBanking -INFO - Entered pincode
+2020-02-24 13:53:24,119 - eBanking -INFO - Entered mobile number
+2020-02-24 13:53:24,675 - eBanking -INFO - Entered email address
+2020-02-24 13:53:25,216 - eBanking -INFO - Entered password
+2020-02-24 13:53:26,819 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:53:28,921 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 13:55:51,955 - eBanking -INFO - URL is opened
+2020-02-24 13:55:52,627 - eBanking -INFO - Entered username
+2020-02-24 13:55:53,235 - eBanking -INFO - Entered password
+2020-02-24 13:56:01,422 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:56:04,431 - eBanking -INFO - Login is successful
+2020-02-24 13:56:20,606 - eBanking -INFO - URL is opened
+2020-02-24 13:56:21,251 - eBanking -INFO - Entered username
+2020-02-24 13:56:21,859 - eBanking -INFO - Entered password
+2020-02-24 13:56:36,190 - eBanking -INFO - Clicked on submit button
+2020-02-24 13:57:01,688 - eBanking -INFO - Clicked on new customer link
+2020-02-24 13:57:02,340 - eBanking -INFO - Entered customer name
+2020-02-24 13:57:02,961 - eBanking -INFO - Clicked on gender
+2020-02-24 13:57:04,710 - eBanking -INFO - Entered dob
+2020-02-24 13:57:07,348 - eBanking -INFO - Entered address
+2020-02-24 13:57:07,978 - eBanking -INFO - Entered city
+2020-02-24 13:57:08,597 - eBanking -INFO - Entered state
+2020-02-24 13:57:09,224 - eBanking -INFO - Entered pincode
+2020-02-24 13:57:09,851 - eBanking -INFO - Entered mobile number
+2020-02-24 13:57:10,546 - eBanking -INFO - Entered email address
+2020-02-24 13:57:11,186 - eBanking -INFO - Entered password
+2020-02-24 13:57:15,215 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 13:57:17,237 - eBanking -INFO - Successful login
+2020-02-24 13:58:26,781 - eBanking -INFO - URL is opened
+2020-02-24 13:58:27,458 - eBanking -INFO - Entered username
+2020-02-24 13:58:28,070 - eBanking -INFO - Entered password
+2020-02-24 13:58:32,612 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:58:35,623 - eBanking -INFO - Login is successful
+2020-02-24 13:59:18,419 - eBanking -INFO - URL is opened
+2020-02-24 13:59:19,895 - eBanking -INFO - Entered username
+2020-02-24 13:59:21,103 - eBanking -INFO - Entered password
+2020-02-24 13:59:28,222 - eBanking -INFO - Clicked on submit Button
+2020-02-24 13:59:31,238 - eBanking -INFO - Login is successful
+2020-02-24 14:00:36,904 - eBanking -INFO - URL is opened
+2020-02-24 14:00:37,591 - eBanking -INFO - Entered username
+2020-02-24 14:00:38,210 - eBanking -INFO - Entered password
+2020-02-24 14:00:43,243 - eBanking -INFO - Clicked on submit Button
+2020-02-24 14:00:46,252 - eBanking -INFO - Login is successful
+2020-02-24 14:01:00,550 - eBanking -INFO - URL is opened
+2020-02-24 14:01:01,214 - eBanking -INFO - Entered username
+2020-02-24 14:01:01,823 - eBanking -INFO - Entered password
+2020-02-24 14:01:38,011 - eBanking -INFO - Clicked on submit button
+2020-02-24 14:02:03,289 - eBanking -INFO - Clicked on new customer link
+2020-02-24 14:02:03,919 - eBanking -INFO - Entered customer name
+2020-02-24 14:02:04,525 - eBanking -INFO - Clicked on gender
+2020-02-24 14:02:06,260 - eBanking -INFO - Entered dob
+2020-02-24 14:02:08,894 - eBanking -INFO - Entered address
+2020-02-24 14:02:09,506 - eBanking -INFO - Entered city
+2020-02-24 14:02:10,124 - eBanking -INFO - Entered state
+2020-02-24 14:02:10,740 - eBanking -INFO - Entered pincode
+2020-02-24 14:02:11,355 - eBanking -INFO - Entered mobile number
+2020-02-24 14:02:12,101 - eBanking -INFO - Entered email address
+2020-02-24 14:02:12,697 - eBanking -INFO - Entered password
+2020-02-24 14:02:16,499 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 14:02:18,517 - eBanking -INFO - Successful login
+2020-02-24 14:06:47,675 - eBanking -INFO - URL is opened
+2020-02-24 14:06:48,302 - eBanking -INFO - Entered username
+2020-02-24 14:06:48,866 - eBanking -INFO - Entered password
+2020-02-24 14:07:00,038 - eBanking -INFO - Clicked on submit button
+2020-02-24 14:07:28,948 - eBanking -INFO - Clicked on new customer link
+2020-02-24 14:07:29,523 - eBanking -INFO - Entered customer name
+2020-02-24 14:07:30,287 - eBanking -INFO - Clicked on gender
+2020-02-24 14:07:31,870 - eBanking -INFO - Entered dob
+2020-02-24 14:07:34,468 - eBanking -INFO - Entered address
+2020-02-24 14:07:35,104 - eBanking -INFO - Entered city
+2020-02-24 14:07:35,708 - eBanking -INFO - Entered state
+2020-02-24 14:07:36,270 - eBanking -INFO - Entered pincode
+2020-02-24 14:07:36,823 - eBanking -INFO - Entered mobile number
+2020-02-24 14:07:37,420 - eBanking -INFO - Entered email address
+2020-02-24 14:07:37,967 - eBanking -INFO - Entered password
+2020-02-24 14:07:39,540 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 14:07:41,571 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 14:14:07,822 - eBanking -INFO - URL is opened
+2020-02-24 14:14:08,454 - eBanking -INFO - Entered username
+2020-02-24 14:14:09,008 - eBanking -INFO - Entered password
+2020-02-24 14:14:50,862 - eBanking -INFO - Clicked on submit button
+2020-02-24 14:15:22,955 - eBanking -INFO - Clicked on new customer link
+2020-02-24 14:15:23,520 - eBanking -INFO - Entered customer name
+2020-02-24 14:15:24,285 - eBanking -INFO - Clicked on gender
+2020-02-24 14:15:25,882 - eBanking -INFO - Entered dob
+2020-02-24 14:15:28,448 - eBanking -INFO - Entered address
+2020-02-24 14:15:29,005 - eBanking -INFO - Entered city
+2020-02-24 14:15:29,558 - eBanking -INFO - Entered state
+2020-02-24 14:15:30,104 - eBanking -INFO - Entered pincode
+2020-02-24 14:15:30,654 - eBanking -INFO - Entered mobile number
+2020-02-24 14:15:31,222 - eBanking -INFO - Entered email address
+2020-02-24 14:15:31,765 - eBanking -INFO - Entered password
+2020-02-24 14:15:33,337 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 14:15:35,372 - eBanking -WARN - Invalid credentials, login failed or user already exist
+2020-02-24 14:19:43,764 - eBanking -INFO - URL is opened
+2020-02-24 14:19:45,326 - eBanking -INFO - Entered username
+2020-02-24 14:19:46,565 - eBanking -INFO - Entered password
+2020-02-24 14:19:51,478 - eBanking -INFO - Clicked on submit button
+2020-02-24 14:19:51,691 - eBanking -INFO - URL is opened
+2020-02-24 14:19:52,321 - eBanking -INFO - Entered username
+2020-02-24 14:19:52,935 - eBanking -INFO - Entered password
+2020-02-24 14:19:55,041 - eBanking -INFO - Clicked on submit button
+2020-02-24 14:20:19,979 - eBanking -INFO - Clicked on new customer link
+2020-02-24 14:20:20,249 - eBanking -INFO - Clicked on new customer link
+2020-02-24 14:20:20,897 - eBanking -INFO - Entered customer name
+2020-02-24 14:20:21,496 - eBanking -INFO - Entered customer name
+2020-02-24 14:20:21,522 - eBanking -INFO - Clicked on gender
+2020-02-24 14:20:23,032 - eBanking -INFO - Clicked on gender
+2020-02-24 14:20:23,262 - eBanking -INFO - Entered dob
+2020-02-24 14:20:25,872 - eBanking -INFO - Entered address
+2020-02-24 14:20:26,323 - eBanking -INFO - Entered dob
+2020-02-24 14:20:26,489 - eBanking -INFO - Entered city
+2020-02-24 14:20:27,129 - eBanking -INFO - Entered state
+2020-02-24 14:20:27,749 - eBanking -INFO - Entered pincode
+2020-02-24 14:20:28,401 - eBanking -INFO - Entered mobile number
+2020-02-24 14:20:29,129 - eBanking -INFO - Entered email address
+2020-02-24 14:20:29,619 - eBanking -INFO - Entered address
+2020-02-24 14:20:29,756 - eBanking -INFO - Entered password
+2020-02-24 14:20:30,940 - eBanking -INFO - Entered city
+2020-02-24 14:20:32,202 - eBanking -INFO - Entered state
+2020-02-24 14:20:33,451 - eBanking -INFO - Entered pincode
+2020-02-24 14:20:34,358 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 14:20:34,706 - eBanking -INFO - Entered mobile number
+2020-02-24 14:20:36,043 - eBanking -INFO - Entered email address
+2020-02-24 14:20:36,379 - eBanking -INFO - Successful login
+2020-02-24 14:20:37,263 - eBanking -INFO - Entered password
+2020-02-24 14:20:39,538 - eBanking -INFO - Clicked on new customer submission
+2020-02-24 14:20:42,666 - eBanking -WARN - Invalid credentials, login failed or user already exist

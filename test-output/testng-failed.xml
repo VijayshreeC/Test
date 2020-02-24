@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBankingV1]">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [InetBankingV1]" parallel="tests">
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="BankingApp Test in Remote Firefox(failed)">
-    <parameter name="browser" value="remotefirefox"/>
+  <test thread-count="2" verbose="2" name="BankingApp Test in IE(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
     <classes>
-      <class name="com.inetbanking.testCases.FivenanceLogin">
+      <class name="com.inetbanking.testCases.TC_AddCustomerTest_003">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="loginFinance"/>
+          <include name="addNewCustomer"/>
+          <include name="loginGuru"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.FivenanceLogin -->
+      </class> <!-- com.inetbanking.testCases.TC_AddCustomerTest_003 -->
     </classes>
-  </test> <!-- BankingApp Test in Remote Firefox(failed) -->
+  </test> <!-- BankingApp Test in IE(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->

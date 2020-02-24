@@ -33,7 +33,7 @@ public class AddCustomerPage {
 	@CacheLookup
 	WebElement rdGender;
 
-	@FindBy(how = How.ID_OR_NAME, using = "dob")
+	@FindBy(xpath = "//input[@id='dob']")
 	@CacheLookup
 	WebElement txtdob;
 

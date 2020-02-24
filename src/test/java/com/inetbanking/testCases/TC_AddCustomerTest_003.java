@@ -23,14 +23,13 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		lp.setPassword(password);
 		logger.info("Entered password");
 		lp.clickSubmit();
-		logger.info("Clicked on submit button");		
+		logger.info("Clicked on submit button");	
+		Thread.sleep(1000);
 	}
 	
 	
 	@Test(dependsOnMethods= {"loginGuru"})
-	public void addNewCustomer() throws InterruptedException, IOException {
-	
-		Thread.sleep(2000);
+	public void addNewCustomer() throws InterruptedException, IOException {		
 
 		AddCustomerPage addcust = new AddCustomerPage(driver);
 		driver.switchTo().frame("flow_close_btn_iframe");
@@ -40,7 +39,7 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		Thread.sleep(2000);
 		addcust.clickNewCustomerLink();
 		logger.info("Clicked on new customer link");
-		addcust.cName("Sachin");
+		addcust.cName("Vijayshree");
 		logger.info("Entered customer name");
 		addcust.cGender();
 		logger.info("Clicked on gender");
@@ -63,6 +62,7 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		logger.info("Entered email address");
 		addcust.cPassword("jjjjd");
 		logger.info("Entered password");
+		Thread.sleep(1000);
 		addcust.cSubmitButton();
 		logger.info("Clicked on new customer submission");
 

@@ -1173,3 +1173,277 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-18 15:25:14,809 [TestNG-tests-2] INFO eBanking - Entered Password
 2020-02-18 15:25:16,213 [TestNG-tests-2] INFO eBanking - Clicked on login submit
 2020-02-18 15:25:26,232 [TestNG-tests-2] INFO eBanking - Login is successful
+2020-02-24 13:11:22,978 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:11:23,645 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:11:24,259 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:11:27,295 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:12:47,989 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:12:48,670 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:12:49,279 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:12:54,041 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:12:57,052 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:13:13,092 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:13:13,743 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:13:14,355 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:13:16,774 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:13:42,913 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:13:43,533 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:13:44,123 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:13:45,836 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:13:48,453 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:13:49,077 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:13:49,698 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:13:50,310 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:13:50,940 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:13:51,626 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:13:52,224 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:13:53,607 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:13:56,096 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 13:16:01,707 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:16:02,383 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:16:02,994 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:16:07,444 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:16:10,454 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:16:24,347 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:16:24,996 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:16:25,641 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:16:28,012 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:16:53,178 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:16:53,797 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:16:54,392 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:16:56,107 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:16:58,725 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:16:59,341 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:17:00,097 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:17:00,709 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:17:01,338 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:17:02,018 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:17:02,627 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:17:06,287 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:17:08,307 [TestNG-tests-1] INFO eBanking - Successful login
+2020-02-24 13:20:56,105 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:20:57,573 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:20:58,779 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:21:08,616 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:21:11,633 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:21:17,525 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:21:18,963 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:21:20,242 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:21:24,584 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:21:53,583 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:21:54,914 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:21:56,317 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:21:59,609 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:22:02,915 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:22:04,215 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:22:05,634 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:22:06,880 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:22:08,184 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:22:09,540 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:22:10,796 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:22:13,067 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:22:16,144 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 13:23:39,836 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:23:41,261 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:23:42,534 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:23:55,175 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:23:58,192 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:30:39,260 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:30:40,699 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:30:41,920 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:31:18,286 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:31:21,301 [TestNG-tests-1] INFO eBanking - Login is not successful
+2020-02-24 13:31:26,283 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:31:27,813 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:31:28,987 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:31:35,027 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:32:06,065 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:32:07,502 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:32:10,132 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:32:13,445 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:32:16,703 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:32:17,977 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:32:19,202 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:32:20,448 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:32:21,685 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:32:22,998 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:32:24,178 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:32:26,453 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:32:29,525 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 13:38:41,212 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:38:41,835 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:38:42,388 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:39:03,358 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:39:06,363 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:40:09,279 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:40:09,874 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:40:10,436 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:40:11,641 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:40:14,690 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-02-24 13:40:27,573 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:40:28,155 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:40:28,768 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:40:30,115 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:40:33,190 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-02-24 13:40:36,049 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:40:36,685 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:40:37,247 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:40:38,121 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:40:41,199 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-02-24 13:41:25,516 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:41:26,096 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:41:26,641 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:41:27,964 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:41:31,006 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-02-24 13:41:46,953 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:41:47,643 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:41:48,217 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:41:49,534 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:41:52,610 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-02-24 13:43:55,986 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:43:56,576 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:43:57,127 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:49:24,042 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:49:24,663 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:49:25,214 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:49:39,728 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:49:42,734 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:51:06,367 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:51:06,948 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:51:07,498 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:52:07,210 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:53:16,385 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:53:16,983 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:53:17,744 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:53:19,336 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:53:21,887 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:53:22,446 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:53:23,006 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:53:23,551 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:53:24,119 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:53:24,675 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:53:25,216 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:53:26,819 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:53:28,921 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 13:55:51,955 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:55:52,627 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:55:53,235 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:56:01,422 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:56:04,431 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:56:20,606 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:56:21,251 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:56:21,859 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:56:36,190 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 13:57:01,688 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 13:57:02,340 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 13:57:02,961 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 13:57:04,710 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 13:57:07,348 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 13:57:07,978 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 13:57:08,597 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 13:57:09,224 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 13:57:09,851 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 13:57:10,546 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 13:57:11,186 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:57:15,215 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 13:57:17,237 [TestNG-tests-1] INFO eBanking - Successful login
+2020-02-24 13:58:26,781 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 13:58:27,458 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 13:58:28,070 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 13:58:32,612 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 13:58:35,623 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 13:59:18,419 [TestNG-tests-2] INFO eBanking - URL is opened
+2020-02-24 13:59:19,895 [TestNG-tests-2] INFO eBanking - Entered username
+2020-02-24 13:59:21,103 [TestNG-tests-2] INFO eBanking - Entered password
+2020-02-24 13:59:28,222 [TestNG-tests-2] INFO eBanking - Clicked on submit Button
+2020-02-24 13:59:31,238 [TestNG-tests-2] INFO eBanking - Login is successful
+2020-02-24 14:00:36,904 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 14:00:37,591 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 14:00:38,210 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:00:43,243 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-24 14:00:46,252 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-24 14:01:00,550 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 14:01:01,214 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 14:01:01,823 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:01:38,011 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 14:02:03,289 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 14:02:03,919 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 14:02:04,525 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 14:02:06,260 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 14:02:08,894 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 14:02:09,506 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 14:02:10,124 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 14:02:10,740 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 14:02:11,355 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 14:02:12,101 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 14:02:12,697 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:02:16,499 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 14:02:18,517 [TestNG-tests-1] INFO eBanking - Successful login
+2020-02-24 14:06:47,675 [TestNG-tests-2] INFO eBanking - URL is opened
+2020-02-24 14:06:48,302 [TestNG-tests-2] INFO eBanking - Entered username
+2020-02-24 14:06:48,866 [TestNG-tests-2] INFO eBanking - Entered password
+2020-02-24 14:07:00,038 [TestNG-tests-2] INFO eBanking - Clicked on submit button
+2020-02-24 14:07:28,948 [TestNG-tests-2] INFO eBanking - Clicked on new customer link
+2020-02-24 14:07:29,523 [TestNG-tests-2] INFO eBanking - Entered customer name
+2020-02-24 14:07:30,287 [TestNG-tests-2] INFO eBanking - Clicked on gender
+2020-02-24 14:07:31,870 [TestNG-tests-2] INFO eBanking - Entered dob
+2020-02-24 14:07:34,468 [TestNG-tests-2] INFO eBanking - Entered address
+2020-02-24 14:07:35,104 [TestNG-tests-2] INFO eBanking - Entered city
+2020-02-24 14:07:35,708 [TestNG-tests-2] INFO eBanking - Entered state
+2020-02-24 14:07:36,270 [TestNG-tests-2] INFO eBanking - Entered pincode
+2020-02-24 14:07:36,823 [TestNG-tests-2] INFO eBanking - Entered mobile number
+2020-02-24 14:07:37,420 [TestNG-tests-2] INFO eBanking - Entered email address
+2020-02-24 14:07:37,967 [TestNG-tests-2] INFO eBanking - Entered password
+2020-02-24 14:07:39,540 [TestNG-tests-2] INFO eBanking - Clicked on new customer submission
+2020-02-24 14:07:41,571 [TestNG-tests-2] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 14:14:07,822 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 14:14:08,454 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 14:14:09,008 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:14:50,862 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 14:15:22,955 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 14:15:23,520 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 14:15:24,285 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 14:15:25,882 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 14:15:28,448 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 14:15:29,005 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 14:15:29,558 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 14:15:30,104 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 14:15:30,654 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 14:15:31,222 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 14:15:31,765 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:15:33,337 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 14:15:35,372 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed or user already exist
+2020-02-24 14:19:43,764 [TestNG-tests-2] INFO eBanking - URL is opened
+2020-02-24 14:19:45,326 [TestNG-tests-2] INFO eBanking - Entered username
+2020-02-24 14:19:46,565 [TestNG-tests-2] INFO eBanking - Entered password
+2020-02-24 14:19:51,478 [TestNG-tests-2] INFO eBanking - Clicked on submit button
+2020-02-24 14:19:51,691 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-24 14:19:52,321 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-24 14:19:52,935 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:19:55,041 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-02-24 14:20:19,979 [TestNG-tests-2] INFO eBanking - Clicked on new customer link
+2020-02-24 14:20:20,249 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-02-24 14:20:20,897 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-02-24 14:20:21,496 [TestNG-tests-2] INFO eBanking - Entered customer name
+2020-02-24 14:20:21,522 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-02-24 14:20:23,032 [TestNG-tests-2] INFO eBanking - Clicked on gender
+2020-02-24 14:20:23,262 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-02-24 14:20:25,872 [TestNG-tests-1] INFO eBanking - Entered address
+2020-02-24 14:20:26,323 [TestNG-tests-2] INFO eBanking - Entered dob
+2020-02-24 14:20:26,489 [TestNG-tests-1] INFO eBanking - Entered city
+2020-02-24 14:20:27,129 [TestNG-tests-1] INFO eBanking - Entered state
+2020-02-24 14:20:27,749 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-02-24 14:20:28,401 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-02-24 14:20:29,129 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-02-24 14:20:29,619 [TestNG-tests-2] INFO eBanking - Entered address
+2020-02-24 14:20:29,756 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-24 14:20:30,940 [TestNG-tests-2] INFO eBanking - Entered city
+2020-02-24 14:20:32,202 [TestNG-tests-2] INFO eBanking - Entered state
+2020-02-24 14:20:33,451 [TestNG-tests-2] INFO eBanking - Entered pincode
+2020-02-24 14:20:34,358 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-02-24 14:20:34,706 [TestNG-tests-2] INFO eBanking - Entered mobile number
+2020-02-24 14:20:36,043 [TestNG-tests-2] INFO eBanking - Entered email address
+2020-02-24 14:20:36,379 [TestNG-tests-1] INFO eBanking - Successful login
+2020-02-24 14:20:37,263 [TestNG-tests-2] INFO eBanking - Entered password
+2020-02-24 14:20:39,538 [TestNG-tests-2] INFO eBanking - Clicked on new customer submission
+2020-02-24 14:20:42,666 [TestNG-tests-2] WARN eBanking - Invalid credentials, login failed or user already exist
