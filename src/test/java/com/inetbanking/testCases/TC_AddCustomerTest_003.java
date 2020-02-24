@@ -14,7 +14,7 @@ import com.inetbanking.pageObjects.LoginPage;
 public class TC_AddCustomerTest_003 extends BaseClass {
 
 	@Test
-	public void addNewCustomer() throws InterruptedException, IOException {
+	public void loginGuru() throws InterruptedException, IOException {
 		driver.get(baseURL);
 		logger.info("URL is opened");
 		LoginPage lp = new LoginPage(driver);
@@ -23,8 +23,13 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		lp.setPassword(password);
 		logger.info("Entered password");
 		lp.clickSubmit();
-		logger.info("Clicked on submit button");
-
+		logger.info("Clicked on submit button");		
+	}
+	
+	
+	@Test(dependsOnMethods= {"loginGuru"})
+	public void addNewCustomer() throws InterruptedException, IOException {
+	
 		Thread.sleep(2000);
 
 		AddCustomerPage addcust = new AddCustomerPage(driver);
@@ -33,10 +38,6 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		;
 		driver.switchTo().defaultContent();
 		Thread.sleep(2000);
-		/*
-		 * if (addcust.noThanksSize() > 0) { addcust.popUpNoThanks().click(); }
-		 */
-
 		addcust.clickNewCustomerLink();
 		logger.info("Clicked on new customer link");
 		addcust.cName("Sachin");

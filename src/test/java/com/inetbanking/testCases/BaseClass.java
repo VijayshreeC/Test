@@ -33,7 +33,7 @@ public class BaseClass {
 	public String baseURL1 = readconfig.getApplicationUrl1();
 	public String username = readconfig.getUserName();
 	public String password = readconfig.getPassword();
-	public static WebDriver driver;
+	public WebDriver driver;
 	// public static WebDriver rmdriver;
 	public static Logger logger;
 	// public static DesiredCapabilities dc;

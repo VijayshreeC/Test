@@ -1151,3 +1151,25 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-13 16:58:45,447 [main] INFO eBanking - Login is successful
 2020-02-13 16:59:53,925 [TestNG-tests-2] INFO eBanking - URL is opened
 2020-02-13 17:00:22,821 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-18 14:23:10,457 [TestNG-tests-2] INFO eBanking - URL is opened
+2020-02-18 14:23:11,136 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-18 14:23:11,802 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-18 14:23:12,434 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-18 14:23:14,277 [TestNG-tests-2] INFO eBanking - Login button is clicked
+2020-02-18 14:23:16,427 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-18 14:23:19,439 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-18 14:23:25,716 [TestNG-tests-2] INFO eBanking - Entered Username
+2020-02-18 14:23:27,020 [TestNG-tests-2] INFO eBanking - Entered Password
+2020-02-18 14:23:28,526 [TestNG-tests-2] INFO eBanking - Clicked on login submit
+2020-02-18 14:23:38,544 [TestNG-tests-2] INFO eBanking - Login is successful
+2020-02-18 15:24:52,636 [TestNG-tests-2] INFO eBanking - URL is opened
+2020-02-18 15:25:02,250 [TestNG-tests-2] INFO eBanking - Login button is clicked
+2020-02-18 15:25:02,262 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-02-18 15:25:02,897 [TestNG-tests-1] INFO eBanking - Entered username
+2020-02-18 15:25:03,551 [TestNG-tests-1] INFO eBanking - Entered password
+2020-02-18 15:25:07,695 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-02-18 15:25:10,707 [TestNG-tests-1] INFO eBanking - Login is successful
+2020-02-18 15:25:13,555 [TestNG-tests-2] INFO eBanking - Entered Username
+2020-02-18 15:25:14,809 [TestNG-tests-2] INFO eBanking - Entered Password
+2020-02-18 15:25:16,213 [TestNG-tests-2] INFO eBanking - Clicked on login submit
+2020-02-18 15:25:26,232 [TestNG-tests-2] INFO eBanking - Login is successful

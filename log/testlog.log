@@ -1151,3 +1151,25 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-13 16:58:45,447 - eBanking -INFO - Login is successful
 2020-02-13 16:59:53,925 - eBanking -INFO - URL is opened
 2020-02-13 17:00:22,821 - eBanking -INFO - URL is opened
+2020-02-18 14:23:10,457 - eBanking -INFO - URL is opened
+2020-02-18 14:23:11,136 - eBanking -INFO - URL is opened
+2020-02-18 14:23:11,802 - eBanking -INFO - Entered username
+2020-02-18 14:23:12,434 - eBanking -INFO - Entered password
+2020-02-18 14:23:14,277 - eBanking -INFO - Login button is clicked
+2020-02-18 14:23:16,427 - eBanking -INFO - Clicked on submit Button
+2020-02-18 14:23:19,439 - eBanking -INFO - Login is successful
+2020-02-18 14:23:25,716 - eBanking -INFO - Entered Username
+2020-02-18 14:23:27,020 - eBanking -INFO - Entered Password
+2020-02-18 14:23:28,526 - eBanking -INFO - Clicked on login submit
+2020-02-18 14:23:38,544 - eBanking -INFO - Login is successful
+2020-02-18 15:24:52,636 - eBanking -INFO - URL is opened
+2020-02-18 15:25:02,250 - eBanking -INFO - Login button is clicked
+2020-02-18 15:25:02,262 - eBanking -INFO - URL is opened
+2020-02-18 15:25:02,897 - eBanking -INFO - Entered username
+2020-02-18 15:25:03,551 - eBanking -INFO - Entered password
+2020-02-18 15:25:07,695 - eBanking -INFO - Clicked on submit Button
+2020-02-18 15:25:10,707 - eBanking -INFO - Login is successful
+2020-02-18 15:25:13,555 - eBanking -INFO - Entered Username
+2020-02-18 15:25:14,809 - eBanking -INFO - Entered Password
+2020-02-18 15:25:16,213 - eBanking -INFO - Clicked on login submit
+2020-02-18 15:25:26,232 - eBanking -INFO - Login is successful
