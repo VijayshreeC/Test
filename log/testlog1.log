@@ -1598,3 +1598,159 @@ freemarker.core.InvalidReferenceException: [... Exception message was already pr
 2020-02-24 15:29:17,644 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
 2020-02-24 15:29:20,650 [TestNG-tests-1] INFO eBanking - Successful login
 2020-02-24 15:29:41,034 [TestNG-tests-1] WARN eBanking - This test step didn't execute and is failed
+2020-10-01 15:24:25,804 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:24:26,965 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:24:27,565 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:24:33,175 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:24:36,538 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:24:39,606 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:24:40,313 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:24:40,906 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:24:41,781 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:24:46,266 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:24:48,475 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:24:49,087 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:24:49,689 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:24:50,806 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:24:54,987 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:24:57,433 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:24:58,009 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:24:58,646 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:24:59,872 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:25:04,416 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:25:16,078 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:25:16,653 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:25:17,231 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:25:17,817 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:25:20,835 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 15:25:41,700 [TestNG-tests-1] WARN eBanking - This test step didn't execute and is failed
+2020-10-01 15:46:52,077 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:46:54,889 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:46:55,550 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:47:01,194 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:47:04,384 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 15:47:06,824 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 15:47:14,171 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:47:14,779 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:47:15,516 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:47:17,795 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:47:20,798 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 15:47:22,573 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 15:47:29,218 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:47:29,823 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:47:30,486 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:47:31,623 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:47:38,803 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:47:40,692 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:47:41,268 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:47:41,870 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:47:42,793 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:47:47,716 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 15:47:49,801 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 15:47:50,377 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 15:47:50,946 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 15:47:51,847 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 15:47:56,169 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:29:27,519 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:29:28,868 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:29:33,598 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:29:35,115 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:29:38,441 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:29:40,787 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:29:47,350 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:29:47,965 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:29:48,727 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:29:51,226 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:29:54,231 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:29:57,396 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:30:04,294 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:30:04,911 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:30:05,558 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:30:06,611 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:30:11,195 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:30:14,298 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:30:14,887 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:30:15,647 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:30:16,239 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:30:19,279 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:30:39,978 [TestNG-tests-1] WARN eBanking - This test step didn't execute and is failed
+2020-10-01 16:30:48,103 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:30:48,733 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:30:49,320 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:30:49,903 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:30:53,434 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:36:27,162 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:36:28,027 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:36:28,697 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:36:30,144 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:36:33,189 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:36:36,372 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:36:43,962 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:36:44,570 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:36:45,298 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:36:46,745 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:36:49,750 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:36:51,564 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:36:57,530 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:36:58,137 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:36:58,730 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:36:59,655 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:37:03,783 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:37:06,526 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:37:07,116 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:37:07,810 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:37:08,841 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:37:13,478 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:37:15,715 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:37:16,287 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:37:17,060 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:37:18,262 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:37:23,002 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:37:31,848 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:37:33,050 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:37:35,268 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:37:36,962 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-10-01 16:43:18,999 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:43:19,669 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:43:20,338 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:43:22,188 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:43:25,335 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:43:27,869 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:43:36,150 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:43:36,744 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:43:37,752 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:43:40,576 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:43:43,580 [TestNG-tests-1] INFO eBanking - Successful login
+2020-10-01 16:43:45,265 [TestNG-tests-1] INFO eBanking - Logged out of the system
+2020-10-01 16:43:52,773 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:43:53,384 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:43:54,061 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:43:55,012 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:43:59,109 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:44:01,208 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:44:01,781 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:44:02,471 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:44:03,591 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:44:07,959 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:44:09,671 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:44:10,252 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:44:10,828 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:44:12,163 [TestNG-tests-1] INFO eBanking - Clicked on submit Button
+2020-10-01 16:44:18,207 [TestNG-tests-1] WARN eBanking - Invalid credentials, login failed
+2020-10-01 16:44:28,328 [TestNG-tests-1] INFO eBanking - URL is opened
+2020-10-01 16:44:28,946 [TestNG-tests-1] INFO eBanking - Entered username
+2020-10-01 16:44:29,540 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:44:31,442 [TestNG-tests-1] INFO eBanking - Clicked on submit button
+2020-10-01 16:44:57,539 [TestNG-tests-1] INFO eBanking - Clicked on new customer link
+2020-10-01 16:44:58,144 [TestNG-tests-1] INFO eBanking - Entered customer name
+2020-10-01 16:44:58,839 [TestNG-tests-1] INFO eBanking - Clicked on gender
+2020-10-01 16:45:00,524 [TestNG-tests-1] INFO eBanking - Entered dob
+2020-10-01 16:45:03,129 [TestNG-tests-1] INFO eBanking - Entered address
+2020-10-01 16:45:03,737 [TestNG-tests-1] INFO eBanking - Entered city
+2020-10-01 16:45:04,334 [TestNG-tests-1] INFO eBanking - Entered state
+2020-10-01 16:45:04,934 [TestNG-tests-1] INFO eBanking - Entered pincode
+2020-10-01 16:45:05,533 [TestNG-tests-1] INFO eBanking - Entered mobile number
+2020-10-01 16:45:06,454 [TestNG-tests-1] INFO eBanking - Entered email address
+2020-10-01 16:45:07,062 [TestNG-tests-1] INFO eBanking - Entered password
+2020-10-01 16:45:10,331 [TestNG-tests-1] INFO eBanking - Clicked on new customer submission
+2020-10-01 16:45:12,335 [TestNG-tests-1] INFO eBanking - Successful login
